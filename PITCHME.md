@@ -10,7 +10,7 @@ paginate: true
 ## 概要
 
 - 日時: 本日 21:00 ～
-- 場所: オンライン（Google Meet ）
+- 場所: オンライン（Discord or Google Meet）
 - 参加者: CoderDojo 磐田/浜松チャンピオン, メンター
 
 ---
@@ -32,6 +32,8 @@ paginate: true
 - 生成 AI VibeCoding 特集
 
 ---
+
+## 合同イベントのアイデア
 
 - メンター勉強会
   - メンターをやりたい人向けの支援や情報共有
