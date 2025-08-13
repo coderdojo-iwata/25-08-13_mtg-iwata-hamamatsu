@@ -1,77 +1,86 @@
 ---
 marp: true
-lang: en-US
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
-theme: uncover
-transition: fade
+theme: default
+class: lead
 paginate: true
-_paginate: false
 ---
 
-![bg opacity](./assets/gradient.jpg)
+# CoderDojo 磐田・浜松合同会議
 
-# <!--fit--> Marp CLI example
+## 概要
 
-Hosting Marp slide deck on the web
-
-https://github.com/yhatt/marp-cli-example
-
-<style scoped>a { color: #36c; }</style>
-
-<!-- This is presenter note. You can write down notes through HTML comment. -->
+- 日時: 本日 21:00 ～
+- 場所: オンライン（Zoom/Discord 予定）
+- 参加者: CoderDojo 磐田/浜松チャンピオン、メンター
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+### 議題
+
+1. 合同イベント候補
+1. うまくいっていること
+1. うまくいっていないこと
+1. 気になっていること
 
 ---
 
-<!-- _backgroundColor: "#123" -->
-<!-- _color: "#fff" -->
+## 合同イベント候補
 
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
-
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
-
----
-
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
-
-## **[GitHub Pages](https://github.com/pages)**
-
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
+- **ママゼミ（CoderDojo 単独でも良い）**
+  - Scratch Jr.体験会
+  - [下呂市子育て生成](https://www.city.gero.lg.jp/soshiki/48/34129.html)
+- [ポケモンプログラミングスタートキット](https://startkit.pokemon-foundation.or.jp/)
+- 生成 AI VibeCoding 特集
 
 ---
 
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
-
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
-
----
-
-![bg right 60%](https://icongr.am/simple/zeit.svg)
-
-## **[Vercel](https://vercel.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
+- **メンター勉強会**
+  - メンターをやりたい人向けの支援や情報共有
+  - 学習コンテンツの使い方、活用法
+    - Scratch
+    - Viscuit
+    - Python, JS
 
 ---
 
-### <!--fit--> :ok_hand:
+## メンター勉強会（続き）
+
+- 運営引き継ぎ
+  - **当日**
+    - ファシリテート
+    - 初心者への支援
+    - 声掛けのしかた
+  - **当日外**
+    - 会場予約
+    - connpass 告知
+    - 備品管理
+    - 経費などの事務作業
+    - Discord
 
 ---
 
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
+## うまくいっていること
 
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
+- 人が集まるようになった
+- 発表が盛り上がってきた
+- 保護者が手伝ってくれるようになった
+- 座席配置でニンジャ同士の交流が生まれやすくなった
+- 寄贈 PC の性能が良い
+- PC 購入した親子も 3 組程度
 
-https://github.com/yhatt/marp-cli-example
+---
+
+## うまくいっていないこと
+
+- 親が子どもにべったりなことが多い
+- 備品管理が大変（PC9 台なので当たり前）
+- マイクラログインに手間取り子どもに待ち時間
+
+---
+
+## 気になっていること
+
+- 浜松は磐田より相対的に技術レベル高目な印象だが、何が違う？
+- 人数はもっと欲しい？違う人にきて欲しい？
+- 本当に初めての子には何渡すのがベスト？実はできていない
+- マイクラライセンス料が 3 倍
